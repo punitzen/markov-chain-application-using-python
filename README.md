@@ -24,7 +24,7 @@ Data shows that
 
 After significantly long time we will be finding the loyalty % that customers will keep loyal to one company.
 
-![alt text](State_Transition_Diagrams\Brand_Loyality.JPG)
+![alt text](/State_Transition_Diagrams/Brand_Loyality.JPG)
 
 ### Script
 ```python
