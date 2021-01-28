@@ -68,12 +68,12 @@ sns.lineplot(data=dfDistrHist)
 100  0.421053  0.263158  0.315789
 ```
 
-![alt text](Graphs\Brand_Loyality.JPG)
+![alt text](/Graphs/Brand_Loyality.JPG)
 
 ## Credit Risk Managment
 In credit risk management the transition matrix represents the likelihood of the future evolution of the ratings. The transition matrix will describe the probabilities that a certain company, country, etc. will either remain in their current state, or transition into a new state. The following probability transition matrix has been taken from the data of the credit rating agencies such as Standard & Poor, Moody’s and Fitch. Where the table reports for AAA, AA, A, BBB, BB, B, CCC and D bonds in the financial and industrial sectors.
 
-![alt text](State_Transition_Diagrams\Credit_Risk_Management.JPG)
+![alt text](/State_Transition_Diagrams/Credit_Risk_Management.JPG)
 
 ### Script
 ```python
@@ -105,7 +105,7 @@ H
 ```
 
 ### Output
-![alt text](Graphs\Credit_Risk_Managment.JPG)
+![alt text](/Graphs/Credit_Risk_Managment.JPG)
 
 ## Predicting Market Share
 These are Hypothetical situation, based on real scenerios
@@ -122,7 +122,7 @@ They designed and implemented marketing strategies that shows it will attract
 
 Based on this, we will develop a model to predict market share.
 
-![alt text](State_Transition_Diagrams\Market_Share.JPG)
+![alt text](/State_Transition_Diagrams/Market_Share.JPG)
 
 ### Script
 ```python
@@ -167,7 +167,7 @@ sns.lineplot(data=dfDistrHist)
 100  0.161185  0.179146  0.090910  0.568760
 ```
 
-![alt text](Graphs\Market_Share.JPG)
+![alt text](/Graphs/Market_Share.JPG)
 
 ## Predicting Market Trend
 So we basically have three types of trend in a market. These are
@@ -179,7 +179,7 @@ Consider a fair market environment lets suppose a market condition.
 
 After a week characterized of a bull market trend there is a 90% chance that another bullish week will follow. Additionally, there is a 7.5% chance that the bull week instead will be followed by a bearish one, or a 2.5% chance that it will be a stagnant one. After a bearish week there’s an 80% chance that the upcoming week also will be bearish, and so on. 
 
-![alt text](State_Transition_Diagrams\Market_Trend.JPG)
+![alt text](/State_Transition_Diagrams/Market_Trend.JPG)
 
 ### Script
 ```python
@@ -224,7 +224,7 @@ sns.lineplot(data=dfDistrHist)
 100  0.62500  0.312500  0.062500
 ```
 
-![alt text](Graphs\Market_Trend.JPG)
+![alt text](/Graphs/Market_Trend.JPG)
 
 ### Refrence to a article which helped me
 [Herman Scheepers article](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
