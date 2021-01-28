@@ -7,7 +7,7 @@ Application of Markov Chain in Finance using Python and ML Libraries like numpy,
 - States
 - Properties
 
-## Brand Loyality
+## Brand Loyalty
 Brand loyalty is the tendency of consumers to continuously purchase one brand's products over another. Consumer behaviour patterns demonstrate that consumers will continue to buy products from a company that has fostered a trusting relationship.
 
 I have taken a hypothetical situation based over some probabilities which I'll be putting in the form of a question and then implement using python.
@@ -225,6 +225,23 @@ sns.lineplot(data=dfDistrHist)
 ```
 
 ![alt text](/Graphs/Market_Trend.JPG)
+
+## Conclusion
+In **Brand Loyalty problem**, according to our solution
+- 42.1% of Hathway customers will remain loyal to them 
+- 26.3% of ADN customers will remain loyal to them 
+- 31.5% of Excitel customers will remain loyal to them
+
+In predicting **Market Share**, according to our solution
+- Mcaffe will attain 16.1 % Market share 
+- Quickheal will attain 17.9% Market share 
+- Kasperskey will attain 9.09% Market share 
+- Avira will attain 56.7% Market share
+
+In predicting **Market Trend**, according to our solution
+- There are 62.5% chances that market will be bullish  
+- There are 31.25% chances that market will be bearish
+- There are 62.5% chances that market will be stagnant
 
 ### Refrence to a article which helped me
 [Herman Scheepers article](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
