@@ -1,5 +1,5 @@
 # Application of Markov Chain in Finance - Credit Risk Modeling using Python
-Application of Markov Chain in Finance using Python and ML Libraries like numpy, pandas, seaborn etc. The purpose of this project is to develop an understanding of the underlying Markov Chains and then use the concepts to take on the financial problems that can be solved using applications of Markov Chain. I have taken on four different industrial examples of Markov chain that are really important in todays modern time. These include Brand loyalty, Predicting Market Share, Market Trend and Credit Risk Management. Analyzing here has the more part rather than implementing.
+Application of Markov Chain in Finance using Python and ML Libraries like numpy, pandas, seaborn etc. The purpose of this project is to develop an understanding of the underlying Markov Chains and then use the concepts to take on the financial problems that can be solved using applications of Markov Chain. I have taken on four different industrial examples of Markov chain that are really important in todays modern time. These include Brand loyalty, Predicting Market Share, Market Trend and Credit Risk Management. 
 
 ## Pre - Requisites
 - Markov Chains
