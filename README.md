@@ -243,5 +243,5 @@ In predicting **Market Trend**, according to our solution
 - There are 31.25% chances that market will be bearish
 - There are 62.5% chances that market will be stagnant
 
-### Reference to a article which helped me
+### Reference to an article which helped me
 [Herman Scheepers article](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
